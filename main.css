@@ -306,7 +306,7 @@ Desktop Menu
 .footer-nav-items {
   gap: 0.5rem;
 }
-.footer-nav-items p {
+.footer-nav-items li:first-child {
   font-size: 1.2rem;
   text-transform: uppercase;
   margin-bottom: 2rem;
